@@ -1,0 +1,8 @@
+elephant
+giraffe
+python
+jazz
+astronaut
+javascript
+horse
+cat
